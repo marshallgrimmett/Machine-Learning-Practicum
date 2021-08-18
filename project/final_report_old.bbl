@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{kmeans}
+David Arthur and Sergei Vassilvitskii.
+\newblock K-means++: the advantages of careful seeding.
+\newblock 2007.
+
+\bibitem{felzen}
+Pedro~F. Felzenszwalb and Daniel~P. Huttenlocher.
+\newblock Efficient graph-based image segmentation.
+\newblock {\em International Journal of Computer Vision}, 59(167-181), 2004.
+
+\bibitem{dataset}
+Pablo Arbelaez, David Martin, and Charless Fowlkes.
+\newblock The berkeley segmentation dataset and benchmark.
+\newblock
+  \url{https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/},
+  2007.
+
+\bibitem{MartinFTM01}
+D.~Martin, C.~Fowlkes, D.~Tal, and J.~Malik.
+\newblock A database of human segmented natural images and its application to
+  evaluating segmentation algorithms and measuring ecological statistics.
+\newblock In {\em Proc. 8th Int'l Conf. Computer Vision}, volume~2, pages
+  416--423, July 2001.
+
+\bibitem{error}
+Ignacio Arganda-Carreras, Srinivas~C. Turaga, Daniel~R. Berger, Dan Cireşan,
+  Alessandro Giusti, Luca~M. Gambardella, Jürgen Schmidhuber, Dmitry Laptev,
+  Sarvesh Dwivedi, Joachim~M. Buhmann, Ting Liu, Mojtaba Seyedhosseini, Tolga
+  Tasdizen, Lee Kamentsky, Radim Burget, Vaclav Uher, Xiao Tan, Changming Sun,
+  Tuan~D. Pham, Erhan Bas, Mustafa~G. Uzunbas, Albert Cardona, Johannes
+  Schindelin, and H.~Sebastian Seung.
+\newblock Crowdsourcing the creation of image segmentation algorithms for
+  connectomics.
+\newblock {\em Frontiers in Neuroanatomy}, 9:142, 2015.
+
+\bibitem{performance}
+Pablo Arbelaez, David Martin, and Charless Fowlkes.
+\newblock Boundary detection benchmark: Algorithm ranking.
+\newblock
+  \url{https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/bench/html/algorithms.html},
+  2013.
+
+\end{thebibliography}

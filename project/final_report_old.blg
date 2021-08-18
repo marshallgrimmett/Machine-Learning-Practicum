@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_report_old.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--empty journal in kmeans
+You've used 6 entries,
+            1791 wiz_defined-function locations,
+            478 strings with 5012 characters,
+and the built_in function-call counts, 1511 in all, are:
+= -- 101
+> -- 126
+< -- 2
++ -- 44
+- -- 38
+* -- 111
+:= -- 263
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 56
+empty$ -- 123
+format.name$ -- 38
+if$ -- 321
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 4
+newline$ -- 33
+num.names$ -- 6
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 35
+stack$ -- 0
+substring$ -- 41
+swap$ -- 16
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 10
+width$ -- 7
+write$ -- 65
+(There was 1 warning)
